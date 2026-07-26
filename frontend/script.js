@@ -1,4 +1,4 @@
-const API_URL = "https://YOUR-BACKEND-NAME.onrender.com/predict";
+const API_URL = "https://alzheimers-disease-classification.onrender.com/predict";
 
 const SEVERITY_COLORS = {
   NonDemented: "#34D399",
