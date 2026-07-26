@@ -8,7 +8,7 @@ A deep learning project that classifies Alzheimer's disease severity from MRI br
 
 ## 📌 Overview
 
-Taking inspiration from the research paper **"A Fine-Tuned CNN Model for Accurate Alzheimer's Disease Classification"**, this project addresses the accuracy, speed, and computational inefficiencies of the models proposed in the paper (AlexNet, GoogLeNet) by switching to **MobileNetV3** — a lightweight yet powerful architecture that achieves **96.25% validation accuracy** on a test set of ~1,300 MRI images while being significantly more efficient.
+Taking inspiration from the research paper **"A Fine-Tuned CNN Model for Accurate Alzheimer's Disease Classification"**, this project addresses the accuracy, speed, and computational inefficiencies of the models proposed in the paper (AlexNet, GoogLeNet) by switching to **ResNet50** — a lightweight yet powerful architecture that achieves **96.25% validation accuracy** on a test set of ~1,300 MRI images while being significantly more efficient.
 
 ---
 
