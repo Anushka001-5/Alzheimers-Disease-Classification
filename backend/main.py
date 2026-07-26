@@ -104,7 +104,7 @@ app = FastAPI(title="Alzheimer's MRI Detection API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  
+    allow_origins=["https://alzheimers-disease-classification.vercel.app/"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
